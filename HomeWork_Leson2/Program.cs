@@ -8,6 +8,7 @@ namespace HomeWork_Leson2
         {
             Console.WriteLine("Hello World!");
             // test git
+            // something for master branch
         }
     }
 }
