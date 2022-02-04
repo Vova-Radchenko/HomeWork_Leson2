@@ -9,6 +9,7 @@ namespace HomeWork_Leson2
             Console.WriteLine("Hello World!");
             // test git
             // for test new branch
+            Console.WriteLine("Hello test branch");
         }
     }
 }
